@@ -1,0 +1,6 @@
+version: '3'
+services:
+ web:
+   image: dongxiaonan/mcms:v5.2.8
+   ports:
+    - "8080:8080"
