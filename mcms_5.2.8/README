@@ -3,5 +3,5 @@ docker-compose up -d
 docker exec  -it docker_images-web-1 bash
 source /etc/profile
 cd mcms-5.2.8-jar
-./start.sh  #开启时间可能有点旧
+./start.sh  #开启时间可能有点久
 
